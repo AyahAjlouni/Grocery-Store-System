@@ -1,0 +1,12 @@
+	Name :	JUST Store	
+	ID :	1	
+	Date :	2021/5/28	
+	TotalBillAmount :	80.0	
+	CustomerTotalMoney :	1000.0	
+	CustomerChange :	920.0	
+Num : 1  |  Name  : tuna | Quantity : 2 | Price : 10.0$
+Num : 2  |  Name  : tuna | Quantity : 1 | Price : 10.0$
+Num : 3  |  Name  : tuna | Quantity : 1 | Price : 10.0$
+Num : 4  |  Name  : tuna | Quantity : 1 | Price : 10.0$
+Num : 5  |  Name  : tuna | Quantity : 1 | Price : 10.0$
+Num : 6  |  Name  : tuna | Quantity : 2 | Price : 10.0$
